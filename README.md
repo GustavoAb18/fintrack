@@ -50,4 +50,4 @@ ao usuário logado antes de importar.
 | `npm run typecheck` | Verifica os tipos com o TSC |
 | `npm run format` | Formata o código (Prettier) |
 ## Autor
-Seu Nome · [LinkedIn](www.linkedin.com/in/gustavo-andrade-abdev) · [GitHub](https://github.com/gustavoab18)
+Gustavo Andrade Abilio · [LinkedIn](www.linkedin.com/in/gustavo-andrade-abdev) · [GitHub](https://github.com/gustavoab18)
